@@ -14,7 +14,6 @@ To create Secret ID and Secret Key, please refer to https://www.tencentcloud.com
 For Terraform setup, please refer to https://developer.hashicorp.com/terraform/downloads 
 
 ## Architecture we are creating
-to be done 
 <img src="architecture-schema.png">
 
 ## Components 
