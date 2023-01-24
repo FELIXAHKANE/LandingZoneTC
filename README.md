@@ -15,7 +15,7 @@ For Terraform setup, please refer to https://developer.hashicorp.com/terraform/d
 
 ## Architecture we are creating
 to be done 
-<img src="images/">
+<img src="architecture-schema.png">
 
 ## Components 
  - VPC
