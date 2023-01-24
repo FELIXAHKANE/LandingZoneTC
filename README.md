@@ -9,8 +9,9 @@ You must have the following ready
 - Terraform
 - Tencent Cloud Account
 
-To create Secret ID and Secret Key, please refer to https://www.tencentcloud.com/document/product/598/32675?lang=en
-For Terraform setup, please refer to https://developer.hashicorp.com/terraform/downloads
+To create Secret ID and Secret Key, please refer to https://www.tencentcloud.com/document/product/598/32675?lang=en 
+
+For Terraform setup, please refer to https://developer.hashicorp.com/terraform/downloads 
 
 ## Architecture we are creating
 to be done 
