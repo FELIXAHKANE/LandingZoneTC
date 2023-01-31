@@ -19,7 +19,6 @@ For Terraform setup, please refer to https://developer.hashicorp.com/terraform/d
 ## Components 
  - VPC
  - Subnets
- - Network ACLs (not included yet in the code)
  - Security Groups
  - Route tables
  - NAT Gateway
