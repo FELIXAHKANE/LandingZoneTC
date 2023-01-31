@@ -14,7 +14,7 @@ To create Secret ID and Secret Key, please refer to https://www.tencentcloud.com
 For Terraform setup, please refer to https://developer.hashicorp.com/terraform/downloads 
 
 ## Architecture we are creating
-<img src="architecture-schema.png">
+<img src="./images/LandingZoneSchema.png">
 
 ## Components 
  - VPC
