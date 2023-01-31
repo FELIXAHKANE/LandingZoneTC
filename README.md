@@ -27,7 +27,12 @@ For Terraform setup, please refer to https://developer.hashicorp.com/terraform/d
 
 ## How to run
 ```
-terraform init
-terraform plan
-terraform apply
+$ export TENCENTCLOUD_SECRET_ID="my-secret-id"
+$ export TENCENTCLOUD_SECRET_KEY="my-secret-key"
+
+$ terraform init
+$ terraform plan
+$ terraform apply
 ```
+
+For information, please check https://registry.terraform.io/providers/tencentcloudstack/tencentcloud/latest/docs
